@@ -4,5 +4,4 @@
 - [How Context Management Releases the Resources](https://alirezayahyapour.pythonanywhere.com/en/how-context-management-releases-the-resources)
 - [Python Closures; Also Known as Small Classes](https://alirezayahyapour.pythonanywhere.com/en/python-closures)
 - [A Few Tips to Become Smarter at Django](https://alirezayahyapour.pythonanywhere.com/en/become-smarter-at-django)
-- [Test For GitHub Actions](https://alirezayahyapour.pythonanywhere.com/en/test-for-actions)
-- [test](https://alirezayahyapour.pythonanywhere.com/en/test)<!--POSTS:END-->
+- [Test For GitHub Actions](https://alirezayahyapour.pythonanywhere.com/en/test-for-actions)<!--POSTS:END-->
