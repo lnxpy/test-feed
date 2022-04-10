@@ -1,4 +1,4 @@
-# My Recent Posts
+# My Recent Posts [![RESTful Post Feed Updater](https://github.com/lnxpy/test-feed/actions/workflows/post-section-updater.yml/badge.svg)](https://github.com/lnxpy/test-feed/actions/workflows/post-section-updater.yml)
 <!--POSTS:START-->
 - [The Power of Django ORM](https://alirezayahyapour.pythonanywhere.com/en/the-power-of-django-orm)
 - [How Context Management Releases the Resources](https://alirezayahyapour.pythonanywhere.com/en/how-context-management-releases-the-resources)
